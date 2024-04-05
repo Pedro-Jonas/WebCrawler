@@ -1,6 +1,9 @@
+import Tasks.Task1
+
 class App {
     static void main(String[] args) {
-        println "initial"
+        Task1 task1 = new Task1()
+        task1.start()
     }
 }
 

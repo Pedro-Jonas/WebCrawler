@@ -11,10 +11,13 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.apache.groovy:groovy:4.0.14'
+    implementation 'org.codehaus.groovy:groovy-all:2.5.23'
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
     implementation group: 'org.jsoup', name: 'jsoup', version: '1.17.2'
+    implementation group: 'io.github.http-builder-ng', name: 'http-builder-ng-core', version: '1.0.4'
+    implementation 'org.slf4j:slf4j-api:1.7.32'
+    implementation 'org.slf4j:slf4j-simple:1.7.32'
 }
 
 test {
