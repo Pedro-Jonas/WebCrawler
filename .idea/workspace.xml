@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a4e780-3862-4a0a-9481-85d555b842d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/groovy/App.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/App.groovy" afterDir="false" />
-    </list>
+    <list default="true" id="b2a4e780-3862-4a0a-9481-85d555b842d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,6 +165,7 @@
       <workItem from="1712346179656" duration="51000" />
       <workItem from="1712346255055" duration="120000" />
       <workItem from="1712346393178" duration="59000" />
+      <workItem from="1712346465729" duration="3136000" />
     </task>
     <servers />
   </component>
