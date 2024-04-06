@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a4e780-3862-4a0a-9481-85d555b842d5" name="Changes" comment="" />
+    <list default="true" id="b2a4e780-3862-4a0a-9481-85d555b842d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/padrao_TISS/comunicacao.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/App.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/App.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/Tasks/Task1.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/Tasks/Task1.groovy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,6 +171,9 @@
       <workItem from="1712346255055" duration="120000" />
       <workItem from="1712346393178" duration="59000" />
       <workItem from="1712346465729" duration="3136000" />
+      <workItem from="1712357911876" duration="7029000" />
+      <workItem from="1712402805957" duration="2652000" />
+      <workItem from="1712406401643" duration="4254000" />
     </task>
     <servers />
   </component>

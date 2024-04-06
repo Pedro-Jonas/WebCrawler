@@ -39,7 +39,7 @@ class Task1 {
 
     private static void download(String url){
         try {
-            String path = "/home/pedrojonas/Documentos/Projetos/WebCrawler/downloads/padrao_TISS"
+            String path = "/home/pedrojonas/Documentos/Projetos/WebCrawler/downloads/padrao_TISS/task1"
 
             File file = new File(path, "comunicacao.zip" )
 
